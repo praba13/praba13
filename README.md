@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Praba and a full stack mern developer. 
+I really enjoy learning languages and frameworks like React.
+
 <!--
 **praba13/praba13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Bitcoin & Blockchain Development & React
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praba)](https://github.com/anuraghazra/github-readme-stats)
