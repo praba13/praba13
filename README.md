@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Praba and a full stack mern developer. 
-I really enjoy learning languages and frameworks like React.
+I really enjoy learning programming languages and frameworks like React.
 
 <!--
 **praba13/praba13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
