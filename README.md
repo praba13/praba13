@@ -25,8 +25,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praba13)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praba13&theme=tokyonight)](https://git.io/streak-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praba13&show_icons=true&locale=en" alt="praba13" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praba13&" alt="praba13" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
