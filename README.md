@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=praba13&theme=tokyonight)](https://git.io/streak-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praba13&show_icons=true&locale=en" alt="praba13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praba13&" alt="praba13" /></p>
