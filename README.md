@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Bitcoin & Blockchain Development & React
+- 🌱 I’m currently learning React Testing
 
 
 <p align="left">
