@@ -60,13 +60,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rpraba13&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpraba13&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ⭐ *Feel free to check out my repositories and leave a star if you find something useful!*
